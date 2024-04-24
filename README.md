@@ -36,4 +36,5 @@ Classifier - Haar Cascades
 * Run Face_recog_CustomKNN.py to recognise the faces detected
 	- This scrip takes the numpy array saved and matches with faces
 	- If matched it displays by assigning 'name; to the face.
+* Run Face_RecCus_CosineSM.py to recognise the faces detected using KNN where destiance is calculated using Cosine similiraity instead of Euclidean distance
 
