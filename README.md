@@ -15,15 +15,6 @@ cv2 -  cv2 is the OpenCV module and is used here for reading & writing images & 
 Algorithm - KNN
 Classifier - Haar Cascades
 
-
-## Breakdown of the code for KNN classifier
-    1. Importing libraries
-    2. Create some data for classification
-    3. Write the kNN workflow
-    4. Finally, run knn on the data and observe results
-## Dependencies
-    Python 2.7 and OpenCv
-
 ## How it works!
 
 * Clone the Repo!
